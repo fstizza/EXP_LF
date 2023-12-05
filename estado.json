@@ -1,0 +1,1 @@
+{"usuarios": ["39119850", "22222222", "33333333"], "claves": ["Lucas123", "Prueba123", "Prueba321"], "saldos": [0, 1, 1], "sueldos": [0, 1, 1], "movimientos": [[], [{"operacion": "extraccion", "fecha": 1701300046}, {"operacion": "extraccion", "fecha": 1701300047}, {"operacion": "extraccion", "fecha": 1701386446}], [{"operacion": "extraccion", "fecha": 1701386447}]], "saldo": 0}
